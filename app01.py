@@ -1,3 +1,3 @@
 name = "saikat sahoo";
-print(name);
-print(hello);
+print("name");
+print("hello");
